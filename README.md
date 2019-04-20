@@ -1,5 +1,5 @@
 # Sakupljac.py
-My first python game!
+
 GOAL: Make the biggest score as you can.
 Each time you eat a food, you get a +3 seconds on your timer.
 If timer gets to the 0, the game is over.
